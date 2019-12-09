@@ -1,0 +1,6 @@
+[2018/11/19 13:19:02.516, MsiExec.exe (PID: 3940, TID: 4052), Registry.cpp:485 (Registry::deleteSubkey)]
+	TRACE: Deleted [HKLM\SOFTWARE\JavaSoft\Java Update\Policy\jucheck] key
+[2018/11/19 13:19:02.516, MsiExec.exe (PID: 3940, TID: 4052), Registry.cpp:485 (Registry::deleteSubkey)]
+	TRACE: Deleted [HKLM\SOFTWARE\JavaSoft\Java Update\Policy] key
+[2018/11/19 13:19:02.516, MsiExec.exe (PID: 3940, TID: 4052), Registry.cpp:485 (Registry::deleteSubkey)]
+	TRACE: Deleted [HKLM\SOFTWARE\JavaSoft\Java Update] key

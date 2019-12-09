@@ -1,0 +1,27 @@
+
+
+1.Algorithm:-
+  
+             An algorithm is a sequence of steps to solve a particular problem.
+
+
+             Input:-An algorithm may not require inputs.
+
+             process:-logic Building.
+
+             Output:-expected output.
+
+
+2.Flowchart:-
+
+             graphical representation of a algorithm.
+
+
+3.Program:-
+
+           set of instructions.
+
+
+4.Applications:-
+
+                Group of programs.

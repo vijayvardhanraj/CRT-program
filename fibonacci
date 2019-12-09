@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main()
+{
+int i=1,n,t1=0,t2=1,t;
+printf("%d %d",t1,t2);
+scanf("%d",&n);
+do
+{
+    t=t1+t2;
+    printf(" %d",t);
+    t1=t2;
+    t2=t;
+    i++;
+    
+}
+while(i<=n-2);
+return 0;
+}

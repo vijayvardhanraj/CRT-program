@@ -1,20 +1,17 @@
 #include<stdio.h>
-#include<math.h>
 int main()
 {
-int n,x1=0,x2=1,x,i;
+int j,i,n;
 scanf("%d",&n);
-printf("%d %d ",x1,x2);
-i=1;
-do
+for(i=1;i>=n;i--)
 {
-x=x1+x2;
-printf("%d ",x);
-x1=x2;
-x2=x;
-i++;
-}while(i<=n-2);
+for(j=1;j<=n-1;j++)
+printf(" ");
+for(i=1;j<=i;j++)
+{
+printf("* ");
+}
+printf("\n");
+}
 return 0;
-	}
-	
-
+}

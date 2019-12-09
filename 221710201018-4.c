@@ -1,12 +1,9 @@
 #include<stdio.h>
 int main()
 {
-	int n,i,sum=0;
-	scanf("%d",&n);
-	for(i=1;i<=n;i++)
-	{
-		sum=sum+i;
-	}
-	printf("%d",sum);
+	int a=7,b=3;
+	printf("\n a&b=%d" ,a&b);
+	printf("\n a|b=%d" ,a|b);
+	printf("\n a^b=%d" ,a^b);
 	return 0;
 }

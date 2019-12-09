@@ -1,13 +1,9 @@
 #include<stdio.h>
 int main()
 {
-	int n,i;
-	scanf("%d",&n);
-	i=1;
-	while(i<=n)
-	{
-		printf("%d",i);
-		i++;
-	}
+	int a=10,20,30;
+	int (b=10,20,30);
+	printf("a=%d" ,a);
+	printf("\nb=%d" ,b);
 	return 0;
 }
